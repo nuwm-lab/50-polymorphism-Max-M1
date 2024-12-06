@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace LabWork
 {
-
+     
     class EquilateralTriangle
     {
         public double SideLength { get; protected set; }
